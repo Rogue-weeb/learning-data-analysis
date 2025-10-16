@@ -1,5 +1,8 @@
 # Learning Data Analysis Progress Log
 
+📓 **Notes:** [Notion learning tracker](https://www.notion.so/Data-Analysis-Journey-28d3d7333fce80f7b1b5ea5c0a0ba8cf?source=copy_link)
+
+Date--15/10/2025
 ## Week 0 - Day 0
 **Task:** Set up workspace and GitHub repository.  
 **What I did:**
@@ -19,4 +22,21 @@
 **Next Step:**  
 Tomorrow I’ll add or update a new file to practice commits again.
 
-📓 **Notes:** [Notion learning tracker](https://www.notion.so/Data-Analysis-Journey-28d3d7333fce80f7b1b5ea5c0a0ba8cf?source=copy_link)
+
+
+16/10/2025
+## Week 0 – Day 2
+**Focus:** Completed folder setup + added first dataset + Git notes  
+**What I did:**
+- Verified folder structure  
+- Added first dataset (`sales_data_sample.csv`)  
+- Wrote Git & GitHub notes in `notes/git_basics.md`  
+
+**What I learned:**
+- GitHub organization helps scale future projects  
+- Every commit tells your learning story  
+- CSV files are the simplest data format to start analysis
+
+**Next Step:** Start Excel basics & data exploration (Day 3)
+
+
