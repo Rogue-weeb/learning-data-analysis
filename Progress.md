@@ -2,7 +2,7 @@
 
 📓 **Notes:** [Notion learning tracker](https://www.notion.so/Data-Analysis-Journey-28d3d7333fce80f7b1b5ea5c0a0ba8cf?source=copy_link)
 
-Date--15/10/2025
+### 15/10/2025
 ## Week 0 - Day 0
 **Task:** Set up workspace and GitHub repository.  
 **What I did:**
@@ -13,7 +13,7 @@ Date--15/10/2025
 
 ---
 
-Date--15/10/2025
+### 15/10/2025
 ## Week 0 - Day 1
 **Task:** Learn what Git and GitHub are.  
 **What I learned:**
@@ -26,7 +26,7 @@ Tomorrow I’ll add or update a new file to practice commits again.
 
 ---
 
-Date--16/10/2025
+### 16/10/2025
 ## Week 0 – Day 2
 **Task:** Completed folder setup + added first dataset + Git notes  
 **What I did:**
@@ -43,7 +43,7 @@ Date--16/10/2025
 
 ---
 
-Date--21/10/2025
+### 21/10/2025
 ## Week 0 — Day 3: Excel Basics & Data Familiarization (2–3 hrs)
 **Task:** Open sample dataset, explore it, and practice basic Excel operations.
 
@@ -62,3 +62,18 @@ Wrote 5 analytical questions about the dataset
 5. How have sales changed over time?  
 
 **File Created:** excel/excel_practice_1.xlsx
+
+---
+
+### 21/10/2025 
+## Week 0 — Day 4  
+**Task:** Excel Charts & Summary Statistics (2–3 hrs)
+
+**What I did:**
+- Created summary metrics (total, average, max, min profit)  
+- Built PivotTables and charts for:
+  - Profit by Country  
+  - Profit by Age Group  
+- Identified USA as top-profit country and Adults (35–64) as top segment  
+
+**Files Created:** excel/excel_practice_2.xlsx 
