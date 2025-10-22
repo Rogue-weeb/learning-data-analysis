@@ -44,7 +44,7 @@ Tomorrow I’ll add or update a new file to practice commits again.
 ---
 
 ### 21/10/2025
-## Week 0 — Day 3: Excel Basics & Data Familiarization (2–3 hrs)
+## Week 0 — Day 3: Excel Basics & Data Familiarization (2 hrs)
 **Task:** Open sample dataset, explore it, and practice basic Excel operations.
 
 **What I did:**
@@ -67,7 +67,7 @@ Wrote 5 analytical questions about the dataset
 
 ### 21/10/2025 
 ## Week 0 — Day 4  
-**Task:** Excel Charts & Summary Statistics (2–3 hrs)
+**Task:** Excel Charts & Summary Statistics (3 hrs)
 
 **What I did:**
 - Created summary metrics (total, average, max, min profit)  
@@ -77,3 +77,23 @@ Wrote 5 analytical questions about the dataset
 - Identified USA as top-profit country and Adults (35–64) as top segment  
 
 **Files Created:** excel/excel_practice_2.xlsx 
+
+---
+
+### 22/10/2025 
+## Week 0 — Day 5  
+**Task:** Excel PivotTables & Dashboard (2 hrs)  
+
+**What I Did:**  
+- Built PivotTables for Profit by Country, Profit by Age Group, and Revenue by Product Category  
+- Created KPI summary (Total Revenue, Total Profit, Order Count)  
+- Added slicers for Country and Product Category  
+- Connected all PivotTables and formatted charts/dashboard layout  
+
+**What I Learned:**  
+- PivotTables help summarize data instantly  
+- Slicers make dashboards interactive  
+- Good layout and labels improve storytelling  
+- Dashboards turn data into business insights  
+
+**File:** excel/excel_Practice_3.xlsx
