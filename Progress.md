@@ -97,3 +97,23 @@ Wrote 5 analytical questions about the dataset
 - Dashboards turn data into business insights  
 
 **File:** excel/excel_Practice_3.xlsx
+
+---
+
+### 23/10/2025  
+## Week 0 — Day 6: Understanding the Data Analysis Workflow (2–3 hrs)
+**Task:** Learn the end-to-end process analysts follow to move from raw data to actionable insights.  
+
+**What I Did:**  
+- Watched “End-to-End Data Analysis Workflow” (Luke Barousse – 25 min)  
+- Summarized the six key steps in `notes/data_workflow.md`  
+- Created a simple workflow diagram in Notion (📥 → 🧹 → 🔍 → 📊 → 💡 → 🚀)  
+- Reflected on how Excel, SQL, and Python each fit into the process  
+
+**What I Learned:**  
+- Every data project follows a repeatable flow: **Collection → Cleaning → Analysis → Visualization → Insights → Action**  
+- **Excel** is powerful for cleaning, exploring, and visualizing small to mid-size datasets  
+- **SQL** handles collection, transformation, and querying large databases  
+- **Python** automates, scales, and adds advanced analytics  
+
+**File Created:** notes/data_workflow.md 
