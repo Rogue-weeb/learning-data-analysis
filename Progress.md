@@ -39,7 +39,7 @@ Tomorrow I’ll add or update a new file to practice commits again.
 - Every commit tells your learning story  
 - CSV files are the simplest data format to start analysis
 
-**Next Step:** Start Excel basics & data exploration (Day 3)
+**Next Step:** `Start Excel basics & data exploration (Day 3)`
 
 ---
 
@@ -61,7 +61,7 @@ Wrote 5 analytical questions about the dataset
 4. Does gender affect total revenue or order quantity?  
 5. How have sales changed over time?  
 
-**File Created:** excel/excel_practice_1.xlsx
+**File Created:** `excel/excel_practice_1.xlsx`
 
 ---
 
@@ -76,7 +76,7 @@ Wrote 5 analytical questions about the dataset
   - Profit by Age Group  
 - Identified USA as top-profit country and Adults (35–64) as top segment  
 
-**Files Created:** excel/excel_practice_2.xlsx 
+**Files Created:** `excel/excel_practice_2.xlsx` 
 
 ---
 
@@ -96,7 +96,7 @@ Wrote 5 analytical questions about the dataset
 - Good layout and labels improve storytelling  
 - Dashboards turn data into business insights  
 
-**File:** excel/excel_Practice_3.xlsx
+**File:** `excel/excel_Practice_3.xlsx`
 
 ---
 
@@ -116,4 +116,23 @@ Wrote 5 analytical questions about the dataset
 - **SQL** handles collection, transformation, and querying large databases  
 - **Python** automates, scales, and adds advanced analytics  
 
-**File Created:** notes/data_workflow.md 
+**File Created:** `notes/data_workflow.md`
+
+---
+
+### 24/10/2025  
+## Week 0 — Day 7: Reflection & Mini Portfolio Checkpoint (2 hrs)
+**Task:** Review progress, reflect, and prepare for Week 1.
+
+**What I Did:**
+- Reviewed GitHub repo structure and notes  
+- Verified all Day 0–6 entries in `progress.md` and Notion  
+- Wrote Week 0 reflection (`notes/week0_reflection.md`)  
+- Confirmed Excel and Git projects are organized for portfolio  
+
+**What I Learned:**
+- Consistent documentation builds a strong portfolio  
+- Reflection helps identify strengths and gaps  
+- I’m ready to move from setup to real data cleaning and analysis 
+
+This is the end of week O
