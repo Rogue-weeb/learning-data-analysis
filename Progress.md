@@ -136,3 +136,26 @@ Wrote 5 analytical questions about the dataset
 - I’m ready to move from setup to real data cleaning and analysis 
 
 This is the end of week O
+
+---
+
+---
+
+### 27/10/2025  
+## Week 1 – Day 1: Excel Data Cleaning & Formulas (3 hrs)
+
+**Task:**  
+Start Excel data-cleaning practice using a raw, messy dataset.
+
+**What I Did:**  
+- Opened a sales dataset (`sales_dirty_data.xlsx`)  
+- Inspected data for issues (multi-level headers, blank cells, totals, etc.)  
+- Documented a cleaning plan in `notes/week1/cleaning_plan.md`  
+- Identified 4 issues and tools to fix them
+- 
+**What I Learned:**  
+- Real-world datasets are often messy and need structure before analysis   
+- Excel offers practical cleaning tools that handle most prep work efficiently  
+
+**File Created:**  
+`notes/week1/cleaning_plan.md`
